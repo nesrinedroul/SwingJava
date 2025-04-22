@@ -25,9 +25,12 @@ TemperatureAppMVC/
 │   ├── ViewF.java              # Vue en Fahrenheit (affichage en JLabel)
 │   ├── ViewSlide.java          # Vue avec un slider pour changer la température
 │   └── ViewObser.java          # Interface Observer pour les vues
+    └── ViewC.java  
 │
 ├── controller/
 │   └── Controller.java         # Contrôleur agissant comme une stratégie pour connecter les vues et le modèle
+    └── ContDiminue.java
+    └── ControlAugm.java  
 │
 ├── Main.java                   # Classe principale pour lancer l'application
 └── README.md                   # Ce fichier
@@ -68,9 +71,7 @@ TemperatureAppMVC/
 
 ---
 
-## ✨ Capture d'écran (optionnel)
-
-*(Tu peux insérer ici une capture d’écran de l’application avec le slider et l'affichage des températures si tu veux impressionner un professeur ou lecteur GitHub.)*
+## ✨ Capture d'écran 
 
 ![image](https://github.com/user-attachments/assets/d6041c73-a195-43bd-b81a-855723d681ef)
 
