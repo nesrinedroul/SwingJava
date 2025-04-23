@@ -75,6 +75,4 @@ TemperatureAppMVC/
 
 ![image](https://github.com/user-attachments/assets/d6041c73-a195-43bd-b81a-855723d681ef)
 
-## 📃 Licence
 
-Ce projet est libre d'utilisation à des fins pédagogiques.
